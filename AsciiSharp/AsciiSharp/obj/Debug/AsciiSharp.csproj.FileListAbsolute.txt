@@ -17,3 +17,22 @@ C:\Users\Shane\Documents\Visual Studio 2017\Projects\AsciiSharp\AsciiSharp\obj\D
 C:\Users\Shane\Documents\Visual Studio 2017\Projects\AsciiSharp\AsciiSharp\obj\Debug\AsciiSharp.pdb
 C:\Users\Shane\Documents\Visual Studio 2017\Projects\AsciiSharp\AsciiSharp\obj\Debug\AsciiSharp.csprojResolveAssemblyReference.cache
 C:\Users\Shane\Documents\Visual Studio 2017\Projects\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\Content\Fonts\ConsoleFont_8x16.xnb
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\Content\Fonts\ConsoleFont_8x16.xnb
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\AsciiSharp.exe
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\AsciiSharp.pdb
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\obj\Debug\AsciiSharp.csproj.CoreCompileInputs.cache
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\obj\Debug\AsciiSharp.exe
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\obj\Debug\AsciiSharp.pdb
+S:\Projects\Monogame\AsciiSharp\AsciiSharp\AsciiSharp\obj\Debug\AsciiSharp.csprojResolveAssemblyReference.cache
