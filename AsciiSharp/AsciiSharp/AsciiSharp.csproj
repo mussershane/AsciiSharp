@@ -60,7 +60,7 @@
     <Compile Include="AsciiSharp.Art.cs" />
     <Compile Include="AsciiSharp.Buffer.cs" />
     <Compile Include="AsciiSharp.GUI.cs" />
-    <Compile Include="AsciiSharp.Types.cs" />
+    <Compile Include="AsciiSharp.GameTypes.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

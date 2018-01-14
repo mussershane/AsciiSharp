@@ -4,6 +4,6 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>S:/Projects/Monogame/AsciiSharp/AsciiSharp/AsciiSharp/Content/Fonts/ConsoleFont_8x16.png</File>
+    <File>/home/shane/Documents/Projects/AsciiSharp/AsciiSharp/AsciiSharp/Content/Fonts/ConsoleFont_8x16.png</File>
   </SourceFiles>
 </SourceFileCollection>
